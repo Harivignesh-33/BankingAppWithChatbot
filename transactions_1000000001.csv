@@ -1,0 +1,8 @@
+Transaction Type,Amount,Date
+deposit,200.0,2025-02-19
+withdraw,200.0,2025-02-19
+Withdraw,1,2025-02-17
+Withdraw,1,2025-02-17
+Deposit,3,2025-02-17
+Deposit,1200000,2025-02-16
+Withdraw,1,2025-02-16
